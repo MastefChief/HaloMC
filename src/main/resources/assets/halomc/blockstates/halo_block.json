@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "halomc:block/halo_block" }
+  }
+}
