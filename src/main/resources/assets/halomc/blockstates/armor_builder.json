@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "halomc:block/armor_builder" },
+    "facing=south": { "model": "halomc:block/armor_builder", "y": 180 },
+    "facing=west":  { "model": "halomc:block/armor_builder", "y": 270 },
+    "facing=east":  { "model": "halomc:block/armor_builder", "y": 90 }
+  }
+}
